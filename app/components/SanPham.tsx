@@ -19,7 +19,7 @@ export default function SanPham(props: any) {
                     </div>
 
                     <div>
-                        {props.soChoNgoi} chỗ ngồi
+                        {props.soChoNgoi} chỗ ngồi nè
                     </div>
                 </div>
 

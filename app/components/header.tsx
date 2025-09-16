@@ -47,7 +47,7 @@ export default function Header() {
                             setDisplayGioiThieu(swapDisplay(displayGioiThieu))
                         }}
                     >
-                        <Link href="/">
+                        <Link href="/GioiThieu">
                             Giới thiệu
                         </Link>
 
